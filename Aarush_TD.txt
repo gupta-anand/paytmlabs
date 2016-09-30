@@ -1,0 +1,18 @@
+4724090161533409
+
+Q: What type of food do you like most?
+A: indian
+
+Q: What brand of jeans do you prefer?
+A: levis
+
+Q: What is your nickname?
+A: aarush
+
+Q: What is your favourite dessert?
+A: chocolate
+
+Q: What is your favourite pizza place?
+A: dominos
+
+code: 3107
